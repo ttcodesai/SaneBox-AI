@@ -1,6 +1,9 @@
 # Figma Structure & Design Guidelines
 ## SaneBox-AI
 
+### Live Figma Project
+**Design File:** [SaneBox-AI Community Figma](https://www.figma.com/make/PXJ0KGNtTzlq4oEB8gkhMd/sanebox-ai--Community-?node-id=0-1&t=M2vtTQUK5w1MEQYc-1)
+
 ---
 
 ### 1. Overview
